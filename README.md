@@ -5,7 +5,7 @@ Exercise n. 1  Feb21
 #### My favorite colors are red and blue
 
 
-## Portuguese Language
+## [Portuguese Language](./portuguese.md)
 
 #### My fav language is my mother language. I think it is one of the most beautiful in the world
 #### We can express ourselves in many different ways, so rich this language is.

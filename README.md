@@ -11,5 +11,4 @@ Exercise n. 1  Feb21
 #### We can express ourselves in many different ways, so rich this language is.
 
 
-## Restaurants
- Incluir um link aqui 
+## [Restaurants](./restaurants.md)  
